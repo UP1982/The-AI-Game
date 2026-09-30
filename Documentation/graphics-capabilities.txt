@@ -1,0 +1,3 @@
+gpu=Apple M5 api=Metal platform=OSXPlayer deviceRayTracing=False assetRayTracing=False eligible=False
+HDRP raster / screen-space lighting
+Calibrated HDRI environment

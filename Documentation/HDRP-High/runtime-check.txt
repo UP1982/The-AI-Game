@@ -1,0 +1,1 @@
+AETHER_RUNTIME_CHECKS_PASSED: cached OpenAI world, all saved regions visited, imported models and resident scale, movement, terrain collision, greeting, modal pause/resume, discovery deduplication, atomic explorer save, position/orientation/discoveries restore, backup recovery. Automated verification only; interactive native playtesting remains separate.

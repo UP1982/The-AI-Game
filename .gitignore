@@ -1,0 +1,37 @@
+.env*
+!.env.example
+.runtime/
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+Builds/
+__pycache__/
+.DS_Store
+*.csproj
+*.sln
+*.pid
+
+# Credentials and machine-specific configuration
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+*.jks
+.aws/
+.ssh/
+.codex/
+.agents/
+.vscode/
+.idea/
+
+# Private live API responses and local tooling
+Documentation/live-*-check.json
+.venv/
+venv/
+*.log
+[Bb]uild/
+[Mm]emoryCaptures/
+[Rr]ecordings/

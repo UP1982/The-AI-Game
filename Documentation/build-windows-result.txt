@@ -1,0 +1,1 @@
+Succeeded; errors=0; size=292172871; HDRP 17.3; StandaloneWindows64; rayTracingAsset=False

@@ -1,0 +1,1 @@
+Succeeded; errors=0; size=324204097; HDRP 17.3; StandaloneOSX; rayTracingAsset=False

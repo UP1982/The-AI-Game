@@ -1,0 +1,12 @@
+Jade Grove: 141 active mesh renderers, 768948 readable mesh triangles
+Stationary native sample (60 frames): median 8.3 ms; p95 8.7 ms; terrain heightfield excluded from mesh triangle totals.
+Local navigation plan: 0 ms (synthetic, no API request)
+Golden Dunes: 118 active mesh renderers, 82839 readable mesh triangles
+Stationary native sample (60 frames): median 8.3 ms; p95 9.0 ms; terrain heightfield excluded from mesh triangle totals.
+Local navigation plan: 1 ms (synthetic, no API request)
+Crystal Gardens: 215 active mesh renderers, 96448 readable mesh triangles
+Stationary native sample (60 frames): median 8.3 ms; p95 9.1 ms; terrain heightfield excluded from mesh triangle totals.
+Local navigation plan: 1 ms (synthetic, no API request)
+Amber Mesa: 124 active mesh renderers, 81657 readable mesh triangles
+Stationary native sample (60 frames): median 8.3 ms; p95 8.8 ms; terrain heightfield excluded from mesh triangle totals.
+Local navigation plan: 1 ms (synthetic, no API request)
