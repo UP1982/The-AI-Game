@@ -5,7 +5,7 @@ A native Unity HDRP exploration prototype for macOS and Windows, with macOS as t
 ## Set up another computer or remote workspace
 
 1. Clone this repository. Install Python 3 to run the backend tests; install **Unity 6000.3.24f1** through Unity Hub to edit or build the game.
-2. For AI generation, copy `.env.example` to `.env.local` and set `OPENAI_API_KEY` there, or provide it through your remote workspace's secret settings as an environment variable. Keep credentials out of source files and commits. Editing code and running the unit tests require no API key.
+2. For AI generation, create `.env.local` containing `OPENAI_API_KEY=your_api_key_here` and replace the placeholder with your key, or provide it through your remote workspace's secret settings as an environment variable. Keep credentials out of source files and commits. Editing code and running the unit tests require no API key.
 3. Run `python3 -m unittest discover -s Tests -v` to check the backend without making API calls.
 4. Open the project in Unity Hub and let Unity restore its packages and import the included assets. Build with `./scripts/build-mac.sh` on macOS or follow [the Windows instructions](Documentation/windows.md), then use the platform's Play launcher.
 

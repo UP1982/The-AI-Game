@@ -1,5 +1,4 @@
 .env*
-!.env.example
 .runtime/
 Library/
 Temp/
@@ -35,3 +34,9 @@ venv/
 [Bb]uild/
 [Mm]emoryCaptures/
 [Rr]ecordings/
+
+# Dependency installations and generated output
+node_modules/
+dist/
+coverage/
+*.py[cod]
